@@ -46,17 +46,17 @@
 # Project Images
 
 ## Hardware Setup
-![Hardware Setup](setup.jpeg)
+![Hardware Setup](Hardware%20Setup.jpeg)
 
 ---
 
 ## Working Demonstration
-![Working Demonstration](working_demo.jpeg)
+![Working Demonstration](Working%20Demonstration.jpeg)
 
 ---
 
 ## Output
-![Output](output.png)
+![Output](Output.jpeg)
 
 ---
 
